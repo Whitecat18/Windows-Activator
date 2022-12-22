@@ -1,0 +1,11 @@
+
+ STEP 1 : Open CMD 
+
+ STEP 2 : Type slmgr /upk
+
+ STEP 3 : Run windows 10 Digital Activation 
+
+ STEP 4 : ENJOY 
+
+
+Give Credits if You use this tool ..!
