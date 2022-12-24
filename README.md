@@ -17,3 +17,4 @@ BEFORE CLONING THIS REPO OR DOWNLOADING IT AS ZIP FILE . DISABLE YOUR ANTIVIRUS 
 
 
 Dont Forget to leave a credit . Your appreciation can make me motivated to do some lot more projects ;)
+IF YOU LIKE THIS TOOL GIVE ME A STAR :) 
