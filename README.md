@@ -1,7 +1,7 @@
 # WIN-GEN
 Windows 10 Key Activator
 
-This tool is used to generate random keys and activate windows10's Machines . 
+This tool is used to generate random keys and activate windows10 Machines . 
 
 # INSTALLING PROCEDURE 
 BEFORE CLONING THIS REPO OR DOWNLOADING IT AS ZIP FILE . DISABLE YOUR ANTIVIRUS .
