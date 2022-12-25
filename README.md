@@ -18,5 +18,5 @@ BEFORE CLONING THIS REPO OR DOWNLOADING IT AS ZIP FILE . DISABLE YOUR ANTIVIRUS 
 Link : https://youtu.be/A8bOW292t_k
 
 
-Dont Forget to leave a credit . Your appreciation can make me motivated to do some lot more projects ;)
-IF YOU LIKE THIS TOOL GIVE ME A STAR :) 
+#Dont Forget to leave a credit. Your appreciation can make me motivated to do some lot more projects ;)
+IF YOU LIKE THIS TOOL, GIVE ME A STAR :) 
