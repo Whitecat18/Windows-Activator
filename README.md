@@ -1,6 +1,12 @@
 # WIN-GEN
 Windows 10 Key Activator
 
+# RE-ALIVE :)
+The tool that are used by thousands of peoples ..
+Due to copyright the tool had been removed from yt and gdrive ..!
+Now it is avaiable on github !
+
+# ABOUT THIS TOOL
 This tool is used to generate random keys and activate windows10 Machines . 
 
 # INSTALLING PROCEDURE 
