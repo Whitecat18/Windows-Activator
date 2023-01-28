@@ -5,9 +5,7 @@ WIN-GEN IS A TOOL USED TO ACTIVATE WINDOWS 10 MACHINES LESS THAN A MINUTE ..!
 This script was made only for Education purpose only..
 Written in ps1 
 Changing Windows files using thrir own Script.. lol
-
-## STEPS TO USE THUS TOOL !
-
+## STEPS TO USE THUS TOOL
 * CLICK ON THE Windows-Activator
 * NOW AVAIABLE IN .exe FORMAT 
 ## STEPS BEFORE RUNNING THIS PROGRAM 
