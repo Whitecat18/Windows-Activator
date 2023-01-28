@@ -1,5 +1,5 @@
 ## WIN-GEN
-WIN-GEN IS A TOOL USED TO ACTIVATE WINDOWS 10 MACHINES LESS THAN A MINUTE ..!
+ACTIVATE YOUR WINDOWS IN JUST ONE MINUTE USING WIN-GEN
 <center><img src="https://raw.githubusercontent.com/Whitecat18/windows-10-Activator/main/image/Intro.PNG" ></center>
 
 ## TOOL DESCRIPTION
