@@ -6,9 +6,9 @@ WORKS FOR BOTH 32 and 64 bit OS
 
 ### TOOL DESCRIPTION
 WIN-GEN is a tool used to activate windows 10 machines ..!<br>
- This script was made only for Education purpose only<br>
- Written in ps1 <br>
- Changing Windows files using thrir own Script.. lol :)<br>
+This script was made only for Education purpose only kidding lol<br>
+Written in ps1 <br>
+Changing Windows files using thrir own Script.. lol :)<br>
 
 
 ### STEPS TO USE THIS TOOL
