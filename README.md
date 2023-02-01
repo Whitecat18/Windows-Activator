@@ -5,7 +5,7 @@ WORKS FOR BOTH x64 and x86
 <center><img src="https://raw.githubusercontent.com/Whitecat18/windows-10-Activator/main/image/Intro.PNG" ></center>
 
 ### TOOL DESCRIPTION
-WIN-GEN is a tool used to activate windows 10 machines ..!<br>
+WIN-GEN is a open source tool used to activate windows 10 machines ..!<br>
 This script was made only for Education purpose only kidding lol<br>
 Written in ps1 <br>
 Changing Windows files using thrir own Script.. lol :)<br>
