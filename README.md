@@ -23,8 +23,7 @@ Changing Windows files using thrir own Script.. lol :)<br>
 IF YOU ARE ACTIVATING YOUR WINDOWS10 MACHINE AGAIN OR EXPIRED <br> FOLLOW THE BELOW STEPS IN open with administrator CMD.
 
 ```
-  > slmgr /upk
-  
+> slmgr /upk
 ```
 
 ### CONTRIBUTIONS
