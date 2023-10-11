@@ -10,7 +10,7 @@ fltmc >nul 2>&1 || (
 )
 mode con cols=60 lines=25
 color 06
-title WIN-GEN  # 7R1X
+title WIN-GEN 
 
 ::===========================================================================
 setlocal enabledelayedexpansion
@@ -26,8 +26,8 @@ Echo.    [1] Activate Windows 10 with Digital Licence
 Echo.
 Echo.    [2] Check Windows Activation Status
 echo.
-Echo.    [3] About 7R1X
-echo.						BY 7R1X
+Echo.    [3] Smukx Tools
+echo.						BY Smukx
 echo.  :=======================================================:
 choice /C:123 /N /M "YOUR CHOICE : "
 
@@ -288,14 +288,6 @@ GOTO MAINMENU
 :ABoutme
 CLS
 
-ECHO ######## ########     ##   ##     ## 
-ECHO ##    ## ##     ##  ####    ##   ##  
-ECHO     ##   ##     ##    ##     ## ##   
-ECHO    ##    ########     ##      ###    
-ECHO   ##     ##   ##      ##     ## ##   
-ECHO   ##     ##    ##     ##    ##   ##  
-ECHO   ##     ##     ##  ###### ##     ##  ###
-
 timeout 3
 CLS
 
@@ -306,11 +298,9 @@ echo.
 Echo. 
 Echo. 	   Visit my Webpage to know more about me 
 echo.
-Echo.		 ----smukx.github.io----
+Echo.		 ----smukx.site----
 echo.
-Echo.     	            Enjoy Your Windows           
-echo.
-Echo.     This tool was Written only for Education Purpose
+Echo.     	     Enjoy Your Windows           
 echo.
 Echo. Press any key to continue...
 pause > nul
@@ -327,7 +317,7 @@ Echo.   		    WINDOWS 10 ACTIVATOR
 echo.
 Echo.   Win-Gen is a tool Used to activate Windows 10 Machines
 Echo.  
-Echo.     This tool was Written only for Education Purpose
+Echo.     Written by Smukx.
 echo.
 echo.
 echo.
