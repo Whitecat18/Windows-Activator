@@ -20,7 +20,25 @@
 * If you are activating windows 10 Press 1 . If activating windows 11 press 2 .
 * Windows 10 Offline Installation .
 * Windows 11 Actiavtion Requires Internet connection.
-* 
+
+
+## Installation Methods
+
+**NOTE : *AUTOMATION INSTALL* :: Run this command on Powershell Admin shell .** 
+
+```
+wget https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip -O Windows-Activator.zip ; unzip.exe .\Windows-Activator.zip ; cd Windows-Activator-main ; .\Windows-Activator.bat
+```
+
+**NOTE : *Manual Installation* :: For Manual you can use the below to download zip file and extract and run on your own** 
+
+CLick Here to Download <b> <a href="https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip -O Windows-Activator.zip" > Windows Activator </a> </b><br>
+
+```
+wget https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip -O Windows-Activator.zip
+```
+
+
 ## Some Screenshots of using this tool
 
 ### Windows 10 Activation Results
