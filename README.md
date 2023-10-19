@@ -32,7 +32,7 @@ wget https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip
 
 **NOTE : *Manual Installation* :: For Manual you can use the below to download zip file to extract and run on your own** 
 
-CLick Here to Download <b> <a href="https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip -O Windows-Activator.zip" > Windows Activator </a> </b><br>
+CLick Here to Download <b> <a href="https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip" > Windows Activator </a> </b><br>
 
 ```
 wget https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip -O Windows-Activator.zip
