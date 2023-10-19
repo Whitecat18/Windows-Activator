@@ -297,7 +297,7 @@ slmgr.vbs /ckms >nul
 slmgr.vbs /upk >nul
 slmgr.vbs /cpky >nul
 
-sleep 1
+timeout 2
 
 setlocal enabledelayedexpansion
 
