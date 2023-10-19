@@ -461,9 +461,9 @@ GOTO :MAINMENU
 :RemoveKEYS
 echo. Removing Old Windows Keys ...
 
- slmgr.vbs /ckms >nul
-cscript slmgr.vbs /upk >nul	
-cscript //nologo slmgr.vbs /cpky >nul
+slmgr.vbs /ckms >nul
+slmgr.vbs /upk >nul	
+slmgr.vbs /cpky >nul
 echo. Removed Keys
 echo.
 Echo.Press any Key to Continue ...
