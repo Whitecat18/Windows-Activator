@@ -1,39 +1,47 @@
-## WIN-GEN
-### PURPOSE
-ACTIVATE YOUR WINDOWS IN JUST ONE MINUTE USING WIN-GEN <br>
-WORKS FOR BOTH x32 and x64 Bit Systems  
-<center><img src="https://raw.githubusercontent.com/Whitecat18/windows-10-Activator/main/image/Intro.PNG" ></center>
+<div align="center">
+  <img width="300px" src="image/windows-activator-logo.png" />
+  <h1>Windows-Activator</h1>
+  <br>
+  <p><i> Activate your windows Automatically on Windows 10 and 11 within minues. 
+  <br>
+    Created in py<a href="https://twitter.com/Smukx07"> @Smukx</a> .</i></p>
+  <br/>
+  <img src="image/main.PNG" width=50%/><br><br>
+  <img src="image/windows10activation.PNG" width=50%/>
+  
+  <b><i></i></b>
+</div>
 
-### TOOL DESCRIPTION
+## STEPS TO USE THIS TOOL
 
-WIN-GEN is a open source tool used to activate windows 10 machines 
+* Disable Antivirus if any Error was found .
+* Run Windows-Activor.bat
+* If you are reactivating windows again . Select 3 Option to delete old windows keys and registers .
+* If you are activating windows 10 Press 1 . If activating windows 11 press 2 .
+* Windows 10 Offline Installation .
+* Windows 11 Actiavtion Requires Internet connection.
+* 
+## Some Screenshots of using this tool
 
-Changing Windows files using thrir own Script.. lol :)<br>
+### Windows 10 Activation Results
+
+**Before using this tool**
+
+<img src="image/windows10.PNG"/> 
+
+**After using the tool**
+
+<img src="image/win10activationproof2.PNG" />
+
+### Windows 11 Activation Results
 
 
-### STEPS TO USE THIS TOOL
+### Problems 
 
-* DISABLE YOUR ANTIVIRUS WHEN USING THIS TOOL
-* DOWNLOAD IT IN ZIP FILE FORMAT, NOT NECESSARY IF GIT INSTALLED !
-* RUN Windows-Activator WITH ADMIN PRIVILAGES 
+If you find any errors while installing. Make sure that you have removed the old key .
+To Remove old keys Select option 4 to recover .
 
-<center><img src="https://raw.githubusercontent.com/Whitecat18/windows-10-Activator/main/image/main%20page.PNG" ></center>
+### ABOUT
 
-### REACTIVATE WINDOWS
+If you like this tool consider giving a star so that i get motivated and write some tools
 
-IF YOU ARE ACTIVATING YOUR WINDOWS10 MACHINE AGAIN OR EXPIRED <br> FOLLOW THE BELOW STEPS IN open with administrator CMD.
-
-```
-> slmgr /upk
-```
-
-### CONTRIBUTIONS
-CREATED BY 7R1% <br>
-IF YOU LIKE THIS TOOL CONSIDER GIVING A STAR TO THIS REPO <br>
-YOUR SUPPOT IS NECESSARY TO KEEP ME MOTIVATED TO POST CONTENT LIKE THIS..!
-WIN !!
-### NEED SOLUTION
-* I TRIED MY BEST TO INSTALL CERTIFICATE TO AVOID DETECTION BUT NO USE ,THIS SCRIPT IS NOT LIKE THAT<br>
-* SINCE IT ADDS THE FAKE LOGS IN THE REGISTRY. IT IS POSSIBE FOR WINDOWS DEFENDER TO DETECT .! 
-* I HAVE PLANNED TO MERGE THE WIN-11 ACTIVATION WITH THIS TOOL ...
-* STAY TUNED
