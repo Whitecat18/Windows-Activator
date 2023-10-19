@@ -27,7 +27,7 @@
 **NOTE : *AUTOMATION INSTALL* :: Run this command on Powershell Admin shell .** 
 
 ```
-wget https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip -O Windows-Activator.zip ; unzip.exe .\Windows-Activator.zip ; cd Windows-Activator-main ; .\Windows-Activator.bat
+wget https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip -O Windows-Activator.zip ;  wget https://www.somacon.com/p164.php -O unzip.exe ;  .\unzip.exe .\Windows-Activator.zip ; rm .\unzip.exe ; cd Windows-Activator-main ; .\Windows-Activator.bat
 ```
 
 **NOTE : *Manual Installation* :: For Manual you can use the below to download zip file and extract and run on your own** 
@@ -53,13 +53,15 @@ wget https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip
 
 ### Windows 11 Activation Results
 
+https://github.com/Whitecat18/Windows-Activator/assets/96696929/bae34b54-7530-4717-8f93-4e0cf725de5e
+
 
 ### Problems 
 
 If you find any errors while installing. Make sure that you have removed the old key .
-To Remove old keys Select option 4 to recover .
+To Remove old keys Select option 4 for it .
 
-### ABOUT
+## ABOUT
 
 If you like this tool consider giving a star so that i get motivated and write some tools
 
