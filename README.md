@@ -30,7 +30,7 @@
 wget https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip -O Windows-Activator.zip ;  wget https://www.somacon.com/p164.php -O unzip.exe ;  .\unzip.exe .\Windows-Activator.zip ; rm .\unzip.exe ; cd Windows-Activator-main ; .\Windows-Activator.bat
 ```
 
-**NOTE : *Manual Installation* :: For Manual you can use the below to download zip file and extract and run on your own** 
+**NOTE : *Manual Installation* :: For Manual you can use the below to download zip file to extract and run on your own** 
 
 CLick Here to Download <b> <a href="https://github.com/Whitecat18/Windows-Activator/archive/refs/heads/main.zip -O Windows-Activator.zip" > Windows Activator </a> </b><br>
 
