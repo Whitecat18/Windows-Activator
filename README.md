@@ -4,7 +4,7 @@
   <br>
   <p><i> Activate your windows Automatically on Windows 10 and 11 within minues. 
   <br>
-    Created in batchfile with powershell by<a href="https://twitter.com/Smukx07"> @Smukx</a> .</i></p>
+    Created in batchfile with powershell by<a href="https://twitter.com/5mukx"> @Smukx</a> .</i></p>
   <br/>
   <img src="image/main.PNG" width=50%/><br><br>
   <img src="image/windows10activation.PNG" width=50%/>
